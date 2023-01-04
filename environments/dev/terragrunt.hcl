@@ -6,7 +6,7 @@ inputs = {
   region_name = "ap-south-1" #mumbai-region
   public_az   = ["ap-south-1a", "ap-south-1b"]
   private_az  = ["ap-south-1a", "ap-south-1b"]
-  environment = "Testing"
+  environment = "Test"
 }
 
 include "root" {
